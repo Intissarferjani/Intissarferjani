@@ -11,7 +11,7 @@
 </p>
 <p align="center">
 <a href="https://komarev.com/ghpvc/?username=intissar-ferjani">
-   <img align="right" src="https://komarev.com/ghpvc/?username=intissar-ferjani&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  
 </a>
 
 </p>
@@ -20,13 +20,12 @@
 - 🔭 &nbsp; I’m currently working on understanding myself...
 <!-- - 🎙️ &nbsp; Host the [PRODCAST-NAME]() podcast. -->
 - 🌱 &nbsp; I’m currently learning everything ...
-<!-- - 👨🏻‍🎓 &nbsp; I graduated with a Bachelor's degree in Computer Science from [ISAMM](http://www.isa2m.rnu.tn/). -->
-- 🎓 &nbsp; I’m currently studying Engineer's degree Software Engineering [@ESPRIT University](https://esprit.tn/).
+- 🎓 &nbsp;I am currently studying Business Intelligence [@ISAAS ](//https://isaas.rnu.tn//).
 - 👯 &nbsp; I’m looking to collaborate with on performance-related projects.
 <!-- - 🤔 &nbsp; I’m looking for help with ... -->
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/intissar-ferjani).
 - 🤝 &nbsp; Welcom for everyone who need help or collaborator.
-- 🥅 &nbsp; 2023 Goals: *********.
+- 🥅 &nbsp; 2024 Goals: graduating from university.
 - 💬 &nbsp; Ask me about anything (within reason) [here](https://github.com/intissar-ferjani/ama)! I will be happy to help.
 - 📫 &nbsp; How to reach me: &nbsp;
 - 😄 &nbsp; Pronouns: ... He/Him/His
