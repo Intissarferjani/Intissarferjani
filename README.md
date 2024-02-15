@@ -9,6 +9,7 @@
 <p align="center">
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=20&pause=1000&color=F762DBFF&random=false&width=435&lines=Passionate+programmer+from+Tunisia;Business+Intelligence+student;always+learning+new+things" alt="Typing SVG" /></a>
 </p>
+<a href="https://wakatime.com/@018da73f-1a48-4fe4-b8ad-2d39f3d852a5"><img src="https://wakatime.com/badge/user/018da73f-1a48-4fe4-b8ad-2d39f3d852a5.svg" alt="Total time coded since Feb 14 2024" /></a>
 <p align="center">
 <a href="https://komarev.com/ghpvc/?username=intissar-ferjani">
   
